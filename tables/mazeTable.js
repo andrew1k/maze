@@ -19,7 +19,7 @@ function Board() {
   this.nodes = {};
 }
 
-// Functions initialization
+// Functions initialization 
 Board.prototype.initialise = function() {
   this.createGrid();
 };

@@ -1,3 +1,4 @@
+//
 var queue = [], copyOfNodes = [], copyOfBoardArray = [], foundWay = false, gotCheese=false, toAnimate = [], prev = "", directions = [], queueEvents = [], sevt, queueIndex = 0;
 var globalIndex = 0;
 var queueElement = document.getElementsByClassName("stack")[0];

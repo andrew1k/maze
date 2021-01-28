@@ -1,3 +1,4 @@
+//
 var stack = [], copyOfNodes = [], copyOfBoardArray = [], foundWay = false, gotCheese=false, toAnimate = [], prev = "", directions = [], stackEvents = [], sevt, stackIndex = 0;
 
 var stackElement = document.getElementsByClassName("stack")[0];
